@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アドバンス・アドベンチャー～Advance Adventure～",
+  "base_artist": "GARDEN",
+  "createdAt": "2026-03-14T15:36:01.296217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー ~Advance Adventure~",
+      "artist": "GARDEN",
+      "has_synced": true,
+      "path": "select/01_アドバンス・アドベンチャー_~Advance_Adventure~_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー 〜Advance Adventure〜",
+      "artist": "GARDEN",
+      "has_synced": true,
+      "path": "select/02_アドバンス・アドベンチャー_〜Advance_Adventure〜_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アドバンス・アドベンチャー 〜Advance Adventure〜",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_アドバンス・アドベンチャー_〜Advance_Adventure〜_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アドバンス.アドベンチャー ~Advance Adventure~",
+      "artist": "Pikachu Records",
+      "has_synced": true,
+      "path": "select/04_アドバンス.アドベンチャー_~Advance_Adventure~_Pikachu_Records.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アドバンス・アドベンチャー～Advance Adventure～",
+      "artist": "GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_アドバンス・アドベンチャー~Advance_Adventure~_GARDEN.txt"
+    }
+  ]
+}
